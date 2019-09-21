@@ -1,6 +1,6 @@
-public class TEMET {
+public class CABRA {
     
-private static final String signature = "\ntemet.com.br\tfacebook/devtemet";
+private static final String signature = "\ncabra.io\tcodar.app";
 private static int companySize = 1;
 private static String espaco = "";
 
@@ -8,7 +8,7 @@ private static String company[] = new String[]{
         "            _._._                       ",
         "           _|   |_                      ",
         "           | ... |      _________       ",
-        "           | ||| |-----|  TEMET  |----- ",
+        "           | ||| |-----|  CABRA  |----- ",
         "           |     |                     |",
         "   ())     |[-|-]| [-|-]  [-|-]  [-|-] |",
         "  (()))    |     |---------------------|",
@@ -82,9 +82,9 @@ private static String company[] = new String[]{
                new String[]{
              "Sou o me42th",
              "Sou o me42th",      
-             "O mascote da TEMET",
-             "O mascote da TEMET",
-             "O mascote da TEMET",
+             "O mascote caprino",
+             "O mascote caprino",
+             "O mascote caprino",
              "Conosco eh o dobro na metade do tempo",
              "Conosco eh o dobro na metade do tempo",
              "Conosco eh o dobro na metade do tempo",
@@ -173,10 +173,10 @@ private static String company[] = new String[]{
         );
         
         walkRight(1,new String[]{
-                    "A TEMET eh composta por pessoas que atendem outras pessoas"
+                    "A CABRA IO eh composta por pessoas que atendem outras pessoas"
             });
         walkRight(1,new String[]{
-                    "A TEMET eh composta por pessoas que atendem outras pessoas"
+                    "A CABRA IO eh composta por pessoas que atendem outras pessoas"
             });
               
         talk(
@@ -393,12 +393,12 @@ private static String company[] = new String[]{
         promptFLine = cont >= 19?prompt:" ";
         secondLine= cont == 15?"OUT:":secondLine;
         thirdLine = cont == 19?" FATAL ERROR":thirdLine;
-        input = cont==5?"M"
-                :cont==7?"ME"
-                :cont==9?"ME4"
-                :cont==11?"ME42"
-                :cont==13?"ME42T"
-                :cont==15?"ME42TH"
+        input = cont==5?"C"
+                :cont==7?"CO"
+                :cont==9?"CO0"
+                :cont==11?"CO0D"
+                :cont==13?"CO0D4"
+                :cont==15?"CO0D4R"
                 :input;
         space=   cont==5?"      "
                 :cont==7?"     "
