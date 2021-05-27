@@ -1,14 +1,14 @@
-public class CABRA {
+public class BUTANTAN {
     
-private static final String signature = "\ncabra.io\tcodar.app";
+private static final String signature = "\n CORONAVAC \t PFIZER \t MODERNA";
 private static int companySize = 1;
 private static String espaco = "";
 
 private static String company[] = new String[]{
         "            _._._                       ",
         "           _|   |_                      ",
-        "           | ... |      _________       ",
-        "           | ||| |-----|  CABRA  |----- ",
+        "           | ... |      __________      ",
+        "           | ||| |-----| BUTANTAN |---- ",
         "           |     |                     |",
         "   ())     |[-|-]| [-|-]  [-|-]  [-|-] |",
         "  (()))    |     |---------------------|",
@@ -20,8 +20,8 @@ private static String company[] = new String[]{
     };
 
     private static String doorOpen[] = new String[]{
-        " ()))(()   |     |             |   |   |",
-        "    ||     |_____|_____________|___|___|",
+        " ()))(()   |     |             | 💉 |  |",
+        "    ||     |_____|_____________|_💉_|__|",
          
     };
     
@@ -80,42 +80,44 @@ private static String company[] = new String[]{
        );
        walkRight(15,
                new String[]{
-             "Sou o me42th",
-             "Sou o me42th",      
-             "O mascote caprino",
-             "O mascote caprino",
-             "O mascote caprino",
-             "Conosco eh o dobro na metade do tempo",
-             "Conosco eh o dobro na metade do tempo",
-             "Conosco eh o dobro na metade do tempo",
-             "E demonstrarei \"COMO\" e \"PORQUE\"",
-             "E demonstrarei \"COMO\" e \"PORQUE\"",
+             "Esta é uma homenagem",
+             "Bem pequena",      
+             "Bem pequena",
+             "Mas é o que este simples dev",
+             "Mas é o que este simples dev",
+             "E entusiasta da ciência",
+             "E entusiasta da ciência",
+             "Podia e fez questão de fazer",
+             "Podia e fez questão de fazer",
+             "Aos hérois que criaram a vacina",
+             "Aos hérois que criaram a vacina",
+             "E que lutaram contra tudo e todos por ela",
              
          } );
        
        talk(
                new String[]{
-             "Quem sabe faz ao vivo!",
+             "É estranho falar sobre isso!",
                    
               }
        );
-       rightSpace[0] = "\t\t VALORES";
+       rightSpace[0] = "\t\t😷 Gratidão";
 	   talk(
                new String[]{
-             "Quem sabe faz ao vivo!",
+             "É estranho falar sobre isso!",
                    
               }
        );
        talk(
                new String[]{
-               "A sua expectativa eh coisa seria",
+               "Pois nunca pensei que alguem",
                        
               }
        );
-       rightSpace[1] = "\t\t\t RESPEITO";
+       rightSpace[1] = "\t\t\t Cientistas";
        talk(
                new String[]{
-               "A sua expectativa eh coisa seria",    
+               "Pois nunca pensei que alguem",    
               }
        );
        
@@ -123,21 +125,21 @@ private static String company[] = new String[]{
        walkLeft(3,
                new String[]{
                    
-                   "Somos profissionais!",                                 
+                   "Poderia achar diferente",                                 
                    
                 }
                );
         talk(
                 new String[]{
-                   "A nossa parceria eh fruto de algo maior ",
+                   "Poderia achar diferente",
                 }
         );
-        rightSpace[2] = "\t\t\t TRANPARENCIA";
+        rightSpace[2] = "\t\t\t VOCÊS SÃO FODA!!";
         talk(
                 new String[]{
-                   "A nossa parceria eh fruto de algo maior",
-				   "A sua confianca eh o nosso maior trunfo" ,
-                   "A sua confianca eh o nosso maior trunfo"                   
+                   "A coragem de vocês",
+				   "Permitiu que todos pudessem sonhar" ,
+                   "Permitiu que todos pudessem sonhar"                   
                     
                     
                 }
@@ -145,7 +147,7 @@ private static String company[] = new String[]{
         
         walkRight(1,
                 new String[]{
-                    "Por essa razao",
+                    "Fazer o que precisa ser feito",
                     
                     
                 }                
@@ -153,7 +155,7 @@ private static String company[] = new String[]{
         
         walkRight(1,
                 new String[]{
-                    "Por essa razao",
+                    "Fazer o que precisa ser feito",
                     
                     
                 }                
@@ -162,26 +164,26 @@ private static String company[] = new String[]{
         
         
         walkRight(1,new String[]{
-                    "Aqui a concentracao eh intensa na meta",
+                    "Correndo riscos",
                     
                     }
         );
         
         walkRight(2,new String[]{
-                   "Aqui a concentracao eh intensa na meta",
+                   "Na nossa idade média tardia",
                     }
         );
         
         walkRight(1,new String[]{
-                    "A CABRA IO eh composta por pessoas que atendem outras pessoas"
+                    "A ciência é linda e vocês são a culpa disso"
             });
         walkRight(1,new String[]{
-                    "A CABRA IO eh composta por pessoas que atendem outras pessoas"
+                    "A ciência é linda e vocês são a culpa disso"
             });
               
         talk(
                 new String[]{
-                    "Nao oferecemos bit/byte </codigo>"
+                    "Eu realmente precisava falar"
                 }
         );
        
@@ -189,42 +191,43 @@ private static String company[] = new String[]{
         
 		talk(
                 new String[]{
-                    "Nao oferecemos bit/byte </codigo>" 
+                    "Eu realmente precisava falar" 
                 }
         );        
         walkLeft(1,new String[]{
-                "E sim agregar valor ao projeto",
+                "De alguma forma",
                               
             }
         );
 
         walkLeft(1,new String[]{
-                "E sim agregar valor ao projeto",
+                "O tanto que sou grato",
                               
             }
         );
         
         walkLeft(1,new String[]{
-                "Codigo com qualidade e funcional",
+                "O tanto que sou grato",
                               
             }
         );
      
         walkLeft(1,new String[]{
-                "Codigo com qualidade e funcional",
+                "É uma homenagem bem pequena",
                               
             }
         );
          
         walkLeft(1,new String[]{
-                "Eh a nossa principal documentacao"
+                "Mas juro que é de coração!"
                         
                               
             }
         );
-		rightSpace[3] = "\t\t\t SUSTENTABILIDADE";
+		
+
         walkLeft(1,new String[]{
-                 "Eh a nossa principal documentacao"
+                 "Mas juro que é de coração!"
                               
             }
         );
@@ -232,27 +235,20 @@ private static String company[] = new String[]{
         
         
         walkLeft(1,new String[]{
-                "Pois assim nao desperdicamos o tempo"              
+                "Coragem de ir lá e fazer"              
             }               
         );
      
         walkRight(1,new String[]{
-                "Pois assim nao desperdicamos o tempo"              
+                "Merece um muito obrigado"              
             }                
         );
-      
-        
-        walkLeft(1,new String[]{
-                "E este, de todas as metricas possiveis, nao se recupera"
-                
-                
-            }                
-        );
+        rightSpace[4] = "\t Salvaram o mundo!";
         leftSpace[9] = doorOpen[0];
         leftSpace[10] = doorOpen[1];
         
-        walkLeft(2,new String[]{
-                "E este, de todas as metricas possiveis, nao se recupera"
+        walkLeft(3,new String[]{
+                "Este é o meu!"
                 
                 
             }                
@@ -261,14 +257,16 @@ private static String company[] = new String[]{
         
         
         walkRight(3,new String[]{
-               "Fim?",
-                "Fim?",
+               "Vocês são incriveis!!",
+                "Vocês são incriveis!!",
                 
             }                
         );
+
+		rightSpace[6] = "\t HERÓIS!!!";
         talk(new String[]{
-                " 'Thus,Though we cannot make our sun Stand still,yet we will make him run' ",
-                " 'Thus,Though we cannot make our sun Stand still,yet we will make him run' ",
+                " OBRIGADO ",
+                " OBRIGADO!! ",
                 
             }                
         );
@@ -379,7 +377,7 @@ private static String company[] = new String[]{
         System.out.println("||C:\\>"+input+promptFirstLine+space+"|| |      |         | |");
         System.out.println("||"+secondLine+promptSecondLine+"       || |      | |====|  | |");
         System.out.println("||"+thirdLine+"|| |      |   ___   | |");
-        System.out.println("||"+promptFLine+"           || |      |  |M42|  | |");
+        System.out.println("||"+promptFLine+"           || |      |  |OMS|  | |");
         System.out.println("||            ||/@@@    |   ---   | |");
         System.out.println("\\+============+/    @   |_________|./.");
         System.out.println("                   @          ..  ....'");
@@ -395,10 +393,10 @@ private static String company[] = new String[]{
         thirdLine = cont == 19?" FATAL ERROR":thirdLine;
         input = cont==5?"C"
                 :cont==7?"CO"
-                :cont==9?"CO0"
-                :cont==11?"CO0D"
-                :cont==13?"CO0D4"
-                :cont==15?"CO0D4R"
+                :cont==9?"COV"
+                :cont==11?"COVI"
+                :cont==13?"COVID"
+                :cont==15?"COVID "
                 :input;
         space=   cont==5?"      "
                 :cont==7?"     "
@@ -420,7 +418,7 @@ private static String company[] = new String[]{
         "||            || |      |         | |",
         "||            || |      | |====|  | |",
         "||            || |      |   ___   | |",
-        "||            || |      |  |M42|  | |",
+        "||            || |      |  |OMS|  | |",
         "||            ||/@@@    |   ---   | |",
         "\\+============+/    @   |_________|./.",
         "                   @          ..  ....'",
@@ -431,35 +429,35 @@ private static String company[] = new String[]{
         };
         
         String frame_1[] = new String[]{
-            "&¨#%&¨%@#&¨%&¨%@&¨%#@&%&@%¨#&¨%@&¨%#&¨%",
-            "#*$(*&#($*&(#*&$(*&#($*&(#&$(*&#(&$*(#*",
-            "(*&$(#*&$(*&#(*&$(@&#94*&(*&$(*&($&*(#*",
-            "#(@*$&(#*@&$(*&#($&#($&(#*&$(#&$(&#$(*#",
-            "#*$&*&#¨$*&#¨$*¨#*$¨*#&$¨*&#¨$*&¨#$*¨&#",
-            "#(*$&(*#&$(&#$(*&#($&(#&$(&)$&#)(&%)@##",
-            "*E&#¨*@&¨*$¨R(*&)R&)($&#)&()&$)&)(&$)()",
-            "#(*&$(*&#)$(#@&$_($#(*#$((¨*#)$(#&$_#($",
-            "#$&)(#$&&)#(&$)(#&$)(&#)(&$)(&#(&%(_@(&",
-            "#*$&(*$(*&@(*&(*&$(*&%(*&(*&$(*&%)$_#*",
+            "🦠¨#%🦠¨%@#🦠¨%🦠¨%@🦠¨%#@🦠%🦠@%¨#🦠¨%@🦠¨%#🦠¨%",
+            "#*$(*🦠#($*🦠(#*🦠$(*🦠#($*🦠(#🦠$(*🦠#(🦠$*(#*",
+            "(*🦠$(#*🦠$(*🦠#(*🦠$(@🦠#94*🦠(*🦠$(*🦠($🦠*(#*",
+            "#(@*$🦠(#*@🦠$(*🦠#($🦠#($🦠(#*🦠$(#🦠$(🦠#$(*#",
+            "#*$🦠*🦠#¨$*🦠#¨$*¨#*$¨*#🦠$¨*🦠#¨$*🦠¨#$*¨🦠#",
+            "#(*$🦠(*#🦠$(🦠#$(*🦠#($🦠(#🦠$(🦠)$🦠#)(🦠%)@##",
+            "*E🦠#¨*@🦠¨*$¨R(*🦠)R🦠)($🦠#)🦠()🦠$)🦠)(🦠$)()",
+            "#(*🦠$(*🦠#)$(#@🦠$_($#(*#$((¨*#)$(#🦠$_#($",
+            "#$🦠)(#$🦠🦠)#(🦠$)(#🦠$)(🦠#)(🦠$)(🦠#(🦠%(_@(🦠",
+            "#*$🦠(*$(*🦠@(*🦠(*🦠$(*🦠%(*🦠(*🦠$(*🦠%)$_#*",
             "()#*$)(*)($%)_(_$#($_(_)($)(+_%(+#_$(*",
-            "$(*($&(*&(*&#¨$*(¨#*¨$(#)$*#)(@$)(&$#*",
-            "#($*&#)%)¨%&%#$¨*¨*¨$*#$$¨%#@(#)(_$(%("
+            "$(*($🦠(*🦠(*🦠#¨$*(¨#*¨$(#)$*#)(@$)(🦠$#*",
+            "#($*🦠#)%)¨%🦠%#$¨*¨*¨$*#$$¨%#@(#)(_$(%("
         };
         
         String frame_2[] = new String[]{
-            "JFLDFJDSFOIJODCMDSCMOASDMCOIMDOCIMOADMC",
+            "JFL😷FJ😷SFOIJO😷CM😷SCMOAS😷MCOIM😷OCIMOA😷MC",
             "IORUOEWRIUQEWPRUPQEURIPEURIOUQEWRPIQEWP",
             "CNBV,CZXBNVM,ZCXV,NCBVNCXZBV,MCNZXBV,,Z",
-            "NMB,CXVBFJLADSFJÇDSLKJÇSDJFJKFJDSFKSLDF",
+            "NMB,CXVBFJLA😷SFJÇ😷SLKJÇS😷JFJKFJ😷SFKSL😷F",
             "QWEUREWURYOEWURYOEWUROEWTRUOQEWYRUOEWRU",
-            "VNCXB,VNB.VB,ZCXVÇCVNAINVNVJNDFLVNFDSV",
-            "UEWRYOIUERHJDKFCNÇMCNDSÇOFJLDSKVÇVNSDJ)",
-            "SDCSDCKSLÇC,L~C,~S,CLÇSCL,~SC,S~CLSDCÇ$",
-            "ASD.CKSDCMÇSCÇSCKMÇSLCMÇLSDCMLMCÇSKCMÇ",
-            "ASDCKJSDCJNLDSKCNLKSNDCLKSAJDCNKSAJCLCN",
-            "DSCLKMSDÇCMKSDÇCMKCÇLSAMCKÇSDCLKSDCMLK",
-            "SÇCLKMADSÇCLM SDCÇMslmlçlmcdsçklcmksdc",
-            "KDSÇCLKMDCÇSC,~SPDCPÓ,CCSC,´POEOPPWOEK"
+            "VNCXB,VNB.VB,ZCXVÇCVNAINVNVJN😷FLVNF😷SV",
+            "UEWRYOIUERHJ😷KFCNÇMCN😷SÇOFJL😷SKVÇVNS😷J)",
+            "S😷CS😷CKSLÇC,L~C,~S,CLÇSCL,~SC,S~CLS😷CÇ$",
+            "AS😷.CKS😷CMÇSCÇSCKMÇSLCMÇLS😷CMLMCÇSKCMÇ",
+            "AS😷CKJS😷CJNL😷SKCNLKSN😷CLKSAJ😷CNKSAJCLCN",
+            "😷SCLKMS😷ÇCMKS😷ÇCMKCÇLSAMCKÇS😷CLKS😷CMLK",
+            "SÇCLKMA😷SÇCLM S😷CÇMslmlçlmc😷sçklcmks😷c",
+            "K😷SÇCLKM😷CÇSC,~SP😷CPÓ,CCSC,´POEOPPWOEK"
         };
         boolean coin = true;
         for(int cont = 0;cont < frame.length ;cont++){
@@ -487,5 +485,3 @@ private static String company[] = new String[]{
     }
    
 }
-
- 
